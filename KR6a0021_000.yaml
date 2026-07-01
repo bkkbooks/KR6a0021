@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0021/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵網六十二見經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0021.xml
+    old_id: T01n0021
+hash: sha256:5d58ad294aa832f77a9c0f3505c3ccc9242f8458a96660631f79560dd3ca2825

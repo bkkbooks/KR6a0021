@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6a0021/v1
+canonical_location: https://kanripo.org/bkk/KR6a0021/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 梵網六十二見經
+  identifiers:
+    alt_id:
+    - T01n0021
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0021.xml
+    old_id: T01n0021
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0021_000.yaml, hash: 'sha256:5d58ad294aa832f77a9c0f3505c3ccc9242f8458a96660631f79560dd3ca2825'}
+  - {seq: 1, filename: KR6a0021_001.yaml, hash: 'sha256:b2a695d0b2c3fb12cdcb3444a12cabec3f0b9c88d53d3905a2ed3d4c97ea46a1'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0021_001.markers.yaml, hash: 'sha256:c352f387abd4e3222ba38606c88d790e4e9d24987a7c53c7eca01b30543c0ffd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0021_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9458
+  label: 佛說梵網六十二見經
+  type: juan
+  level: 1
+hash: sha256:6614ed187bce5a3cea859843d94fc87002a2ce42f4f1278d88ccb751ed596853
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
