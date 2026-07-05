@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0021_000.yaml, hash: 'sha256:5d58ad294aa832f77a9c0f3505c3ccc9242f8458a96660631f79560dd3ca2825'}
-  - {seq: 1, filename: KR6a0021_001.yaml, hash: 'sha256:b2a695d0b2c3fb12cdcb3444a12cabec3f0b9c88d53d3905a2ed3d4c97ea46a1'}
+  - {seq: 1, filename: KR6a0021_001.yaml, hash: 'sha256:f8f77c3fa97a4c696423a6ab8a0ea2428683d4a8de7d9d98d8a500641e080618'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0021_001.markers.yaml, hash: 'sha256:c352f387abd4e3222ba38606c88d790e4e9d24987a7c53c7eca01b30543c0ffd'}
+  - {seq: 0, role: markers, filename: assets/KR6a0021_000.markers.yaml, hash: 'sha256:3aa5d2373e5e28a18a63f5a576768e914e28e827029650a2d836cbd95d18ccae'}
+  - {seq: 1, role: markers, filename: assets/KR6a0021_001.markers.yaml, hash: 'sha256:60ac9764a8ac789c44e62bce27142079a7b4db1c7b3e31b25b0738855843087e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說梵網六十二見經
   type: juan
   level: 1
-hash: sha256:6614ed187bce5a3cea859843d94fc87002a2ce42f4f1278d88ccb751ed596853
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6be086c7fdce4c56a2f8fc875d62e4787b57d0a3d2646fa750f2b58ea1bbc2e9
