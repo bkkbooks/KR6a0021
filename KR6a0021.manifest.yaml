@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0021/v1
 canonical_location: https://kanripo.org/bkk/KR6a0021/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 梵網六十二見經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0021_000.yaml, hash: 'sha256:5d58ad294aa832f77a9c0f3505c3ccc9242f8458a96660631f79560dd3ca2825'}
-  - {seq: 1, filename: KR6a0021_001.yaml, hash: 'sha256:f8f77c3fa97a4c696423a6ab8a0ea2428683d4a8de7d9d98d8a500641e080618'}
+  - {seq: 1, filename: KR6a0021_001.yaml, hash: 'sha256:10ef51d840cc76b9f4448b28da347550e2306e8938763f29718b8052bc92f012'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0021_000.markers.yaml, hash: 'sha256:3aa5d2373e5e28a18a63f5a576768e914e28e827029650a2d836cbd95d18ccae'}
-  - {seq: 1, role: markers, filename: assets/KR6a0021_001.markers.yaml, hash: 'sha256:60ac9764a8ac789c44e62bce27142079a7b4db1c7b3e31b25b0738855843087e'}
+  - {seq: 1, role: markers, filename: assets/KR6a0021_001.markers.yaml, hash: 'sha256:9da087d3a54858d6b6a74d5f13c3d5332ae487fb3e3d8f385d971e3bb026f015'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說梵網六十二見經
   type: juan
   level: 1
-hash: sha256:6be086c7fdce4c56a2f8fc875d62e4787b57d0a3d2646fa750f2b58ea1bbc2e9
+hash: sha256:ca62901af200532081ed0a810173caf883f57173ced50684c20e964181b04d55
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
