@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0021_000-T.yaml, hash: 'sha256:5d58ad294aa832f77a9c0f3505c3ccc9242f8458a96660631f79560dd3ca2825'}
   - {seq: 1, filename: KR6a0021_001-T.yaml, hash: 'sha256:f8f77c3fa97a4c696423a6ab8a0ea2428683d4a8de7d9d98d8a500641e080618'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0021_000-T.markers.yaml, hash: 'sha256:ae66871908c9a9f4f081dcf6e694d321ad1ae7399af9f9435d87ce1419145446'}
+  - {seq: 0, role: markers, filename: assets/KR6a0021_000-T.markers.yaml, hash: 'sha256:e722da2c67c967e46fd5d630f8e5920ecd90a4b6e98b485df8249b3d824740ab'}
   - {seq: 1, role: markers, filename: assets/KR6a0021_001-T.markers.yaml, hash: 'sha256:ef8d34cd642be14f1d9bbf8cbf0ebc37a4923b5e7d24c5028f1d46460d6f961b'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說梵網六十二見經
   type: juan
   level: 1
-hash: sha256:dfc87d9f45c9fe10c3600fafa4dac0dc77cb6535dd7451232fc8e9ac5bb52286
+hash: sha256:568311834d393c5f6224fa6e75aa5394c49e376fd77f71913b1806d5c2cefea4
